@@ -1,0 +1,38 @@
+h1{
+    color:#323311;
+}
+body{
+    background-color: antiquewhite;
+}
+section{
+    background-color: rgb(142, 194, 211);
+    font-size: 20px;
+    width: 80px;
+    height: 130px;
+    
+}
+table{
+border: 100px rgb(4, 6, 9);
+}
+div{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    width: 200px;
+    box-sizing: border-box;
+    display: inline
+}
+button{
+    display: inline-block;
+    width: 100px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.card{
+    width: 200px;
+    padding: 20px;
+    margin: 30px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
